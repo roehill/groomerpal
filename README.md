@@ -1,1 +1,1 @@
-<h1>GroomerPal</h1>
+<h1>GroomerPal</h1> 
